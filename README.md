@@ -24,7 +24,7 @@ Starbucks/
 
 ## 📦 Instalación
 
-1. **Clonar el repositorio**
+1. **Clona este repositorio**
 ```bash
 git clone https://github.com/estebanzeaalvarez/Personal-Portfolio.git
 ```
